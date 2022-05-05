@@ -1,0 +1,44 @@
+body {
+    width: 500px;
+}
+
+img {
+    width: 100px;
+}
+
+h1 {
+    color: #faad48;
+}
+
+p {
+    color: #e3a14b;
+}
+
+ul {
+    color: orange;
+}
+
+body {
+    background-color: #101fad;
+}
+
+.grade {
+    color: orange;
+}
+
+.color {
+    color: orange;
+}
+
+body {
+    text-align: center; border: 10px solid orange;
+}
+
+p {
+    font-family: audiowide; font-size:20px;
+}
+h1{
+    font-family: Pacifico; font-size:65px;
+}
+html{
+    text-align: center;}
